@@ -3,7 +3,7 @@
 <!--
 **avatarjaykrushna/avatarjaykrushna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![image](https://github.com/avatarjaykrushna/avatarjaykrushna/edit/main/image.jpg)
+![image](https://github.com/avatarjaykrushna/avatarjaykrushna/blob/main/image.jpg)
 
 
 Here are some ideas to get you started:
