@@ -19,13 +19,14 @@ I have worked on a variety of projects comprising of one or more of the followin
 - Java
 - C++ 
 - Python
+- Restful API
 
 <!--
 **avatarjaykrushna/avatarjaykrushna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 🔭 I’m currently working on - 👯 I’m looking to collaborate on ... ...   - 💬 Ask me about ... - ⚡ Fun fact: ...-->
 Here are some ideas to get you started:
 
-- 🌱 I’m currently learning ** deploying a service using CI/CD methodology.**
+- 🌱 I’m currently learning **deploying a service using CI/CD methodology.**
 - 🤔 I’m looking for help with Azure DevOps
 - 📫 How to reach me: jaykrushnaavatar1@gmail.com
 - 😄 Pronouns: He/Him
