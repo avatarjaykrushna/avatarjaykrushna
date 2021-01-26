@@ -21,7 +21,7 @@ I have worked on a variety of projects comprising of one or more of the followin
 - Restful API
 
 ### Where to find me?
-- [Email](jaykrushnaavatar1@gmail.com)
+- Email: jaykrushnaavatar1@gmail.com
 
 - [LinkedIn](https://www.linkedin.com/in/avatar-jaykrushna/)
 
