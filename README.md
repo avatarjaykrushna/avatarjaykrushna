@@ -1,6 +1,5 @@
 ### Hi there 👋
-Great! You found me.
-
+Welcome to my Github!
 
 ### Who am I?
 I am a final year graduate student at Arizona State University. I have more than 1 year of experience of internships where I have worked on a plethora of projects in different domains. 
